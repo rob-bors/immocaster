@@ -17,7 +17,7 @@ Dieses Plugin nutzt das Immocaster-SDK (https://github.com/ImmobilienScout24/res
 
 == Installation ==
 
-1. Zugangsdaten (Key und Secret) unter `http://developer.immobilienscout24.de/rest-api/rest-api-zugang/` anfordern. Achten Sie darauf, den richtigen Zugang zu beantragen. ImmobilienScout24 hat Keys mit verschiedenen Berechtigungen. Entscheiden Sie sich für den Zugriff auf alle Objekte der Immobilienplatform (ohne Exposés) oder als Makler für den Zugriff auf eigene Objekte (mit Exposés).
+1. Zugangsdaten (api Key und Secret) unter `http://rest.immobilienscout24.de/restapi/security/registration` anfordern. Achten Sie darauf, den richtigen Zugang zu beantragen. ImmobilienScout24 hat Keys mit verschiedenen Berechtigungen. Entscheiden Sie sich für den Zugriff auf alle Objekte der Immobilienplatform (ohne Exposés) oder als Makler für den Zugriff auf eigene Objekte (mit Exposés).
 2. Laden Sie das Plugin herunter und speichern Sie es im Pluginverzeichnis von Wordpress unter `/wp-content/plugins/`.
 3. Aktivieren Sie das Plugin wie gewohnt im Administrationsgereicht von Wordpress.
 4. Im Bereich Immocaster → ImmobilienScout24 hinterlegen Sie den Key und Secret.
